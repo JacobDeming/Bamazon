@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "allows for the retrieval of goods",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "promptly": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Deming",
+  "license": "ISC"
+}
